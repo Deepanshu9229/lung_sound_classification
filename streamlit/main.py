@@ -6,8 +6,8 @@ import io
 
 # Constants
 CLASSES = ["asthma", "Bronchial", "copd", "healthy", "pneumonia"]
-MODEL_PATH = "D:\\Saare_Projects\\ML_project\\Lung_Project_Full_0.1\\models\\random_forest_model.pkl"
-SCALER_PATH = "D:\\Saare_Projects\\ML_project\\Lung_Project_Full_0.1\\models\\scaler.pkl"
+MODEL_PATH = "models/random_forest_model.pkl"
+SCALER_PATH = "models/scaler.pkl"
 
 
 # Load model and scaler
